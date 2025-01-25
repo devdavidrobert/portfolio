@@ -57,12 +57,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a full stack web developer with a passion for creating
-            interactive and responsive web applications. I have experience
-            working with JavaScript, React, Redux, Node.js, Express, PostgreSQL,
-            Sequelize, HTML, CSS, and Git. I am a quick learner and I am always
-            looking to expand my knowledge and skill set. I am a team player and
-            I am excited to work with others to create amazing applications.
+          I'm a tech enthusiast with a deep dive into web development and programming. I have a particular interest in exploring the intricacies of Server-Side Rendering (SSR) and how it powers modern web applications. I'm currently on a journey learning Flutter, aiming to master cross-platform app development. My days often start with a good cup of coffee, setting the tone for diving into code or sharing insights on tech trends and tools. I enjoy breaking down complex tech concepts into digestible information, whether it's discussing the performance of high-speed websites or the ethical implications of algorithms in our daily tech interactions. When not coding, you'll find me unwinding with some thrilling plot twists in movies or engaging with the latest tech news.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
